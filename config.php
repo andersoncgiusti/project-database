@@ -1,3 +1,3 @@
 <?php
-	define('INCLUDE_PATH','http://localhost/test-webjump-backend/');
+	define('INCLUDE_PATH','http://localhost/database/');
 ?>
